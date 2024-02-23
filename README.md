@@ -1,1 +1,1 @@
-# meu pokedex.
+# meu pokedex. alterado

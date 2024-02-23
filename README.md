@@ -26,6 +26,8 @@ Resumo para enviar via git:
 6. git push -u origin main
 
 ```
+## 🔍 Site Pokedex:
+- [POKEDEX](https://dadosneurais.github.io/pokedex/)
 ## 🔍 Meu site para calculo de compra:
 
 - [Meu site Gibeira.com](https://gibeira.com/).

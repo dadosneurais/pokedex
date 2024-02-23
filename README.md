@@ -10,9 +10,9 @@
 
 ## 📚 Resumo das aulas.
 
-| Aulas | Resumos |
+| Aula | Professor / criador do projeto |
 |-------|---------|
-|PokéAPI | [Professor Rena J. Paula - DIO](https://github.com/RenanJPaula) |
+|PokéAPI | [Rena J. Paula - DIO](https://github.com/RenanJPaula) |
 
 ```
 Resumo para enviar via git:

@@ -12,7 +12,7 @@
 
 | Aulas | Resumos |
 |-------|---------|
-|PokéAPI | [Documentação da PokéAPI](https://pokeapi.co/) |
+|PokéAPI | [Professor Rena J. Paula - DIO](https://github.com/RenanJPaula) |
 
 ```
 Resumo para enviar via git:

@@ -30,4 +30,4 @@ Resumo para enviar via git:
 - [POKEDEX](https://dadosneurais.github.io/pokedex/)
 ## 🔍 Meu site para calculo de compra:
 
-- [Meu site Gibeira.com](https://gibeira.com/).
+- Meu site [Gibeira.com](https://gibeira.com/)
